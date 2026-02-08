@@ -66,6 +66,9 @@ npm install
 ```bash
 npm start
 ```
+
+---
+
 ## 📁 Project Structure | Структура проекта
 ```
 src/
@@ -75,6 +78,8 @@ src/
  ├─ App.jsx
  └─ main.jsx
 ```
+---
+
 ## ⚙️ How It Works | Как работает
 Calculator.jsx
 -Manages calculator state (display, showResult)
