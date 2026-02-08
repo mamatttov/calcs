@@ -57,3 +57,33 @@
 ```bash
 git clone https://github.com/USERNAME/react-calculator.git
 cd react-calculator
+```
+### 2. Install dependencies | Установить зависимости
+```bash
+npm install
+```
+### 3. Run project | Запустить проект
+```bash
+npm start
+```
+## 📁 Project Structure | Структура проекта
+```
+src/
+ ├─ components/
+ │   ├─ Calculator.jsx
+ │   └─ Keys.jsx
+ ├─ App.jsx
+ └─ main.jsx
+```
+## ⚙️ How It Works | Как работает
+Calculator.jsx
+-Manages calculator state (display, showResult)
+-Handles button click logic
+-Converts × and ÷ to * and / before calculation
+-Calculates result and formats output
+-Prevents invalid operator input
+-Limits maximum input length
+Keys.jsx
+-Reusable button component
+-Passes button value to calculator
+-Special styling for EQUALS button
