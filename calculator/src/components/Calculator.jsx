@@ -17,7 +17,7 @@ export default function Calculator() {
       } catch (error) {
         setDisplay("Error");
       }
-    }
+    } else setDisplay("");
   }
 
   const handleClick = (value) => {
@@ -31,6 +31,8 @@ export default function Calculator() {
       setDisplay(display + value);
     } else if (value === "EQUALS") {
       calculateResult();
+    } else if (display.length >= maxLimit) {
+      alert(`maximum characters allowed ${maxLimit}`);
     } else setDisplay(display + value);
   };
 
