@@ -1,4 +1,4 @@
-##🧮 **React Calculator**
+###🧮 **React Calculator**
 <p align="center"> <img src="https://img.shields.io/badge/React-18-blue?logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss" /> <img src="https://img.shields.io/badge/Status-Active-success" /> </p> <p align="center"> <strong>A simple calculator built with React and Tailwind CSS</strong><br/> <em>Простой калькулятор на React и Tailwind CSS</em> </p>
 ##📑 Table of Contents | Оглавление
 
