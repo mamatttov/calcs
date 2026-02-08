@@ -13,9 +13,8 @@
 
 ---
 
-## 📸 Preview
-
-![Calculator Preview](./preview.png)
+## Link on Netlify | Ссылка на Netlify
+https://bejewelled-marigold-297f68.netlify.app/
 
 ---
 
