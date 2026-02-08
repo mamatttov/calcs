@@ -1,8 +1,8 @@
-🧮 React Calculator
+##🧮 **React Calculator**
 <p align="center"> <img src="https://img.shields.io/badge/React-18-blue?logo=react" /> <img src="https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwindcss" /> <img src="https://img.shields.io/badge/Status-Active-success" /> </p> <p align="center"> <strong>A simple calculator built with React and Tailwind CSS</strong><br/> <em>Простой калькулятор на React и Tailwind CSS</em> </p>
-📑 Table of Contents | Оглавление
+##📑 Table of Contents | Оглавление
 
-📸 Preview
+##📸 Preview
 ✨ Features | Возможности
 🛠 Tech Stack | Стек
 📦 Installation | Установка
@@ -28,12 +28,12 @@ C — удалить последний символ
 Обработка ошибок
 Адаптивный интерфейс
 
-🛠 Tech Stack | Стек
+##🛠 Tech Stack | Стек
 ⚛️ React
 🎨 Tailwind CSS
 🧠 JavaScript (Hooks)
-📦 Installation | Установка
 
+##📦 Installation | Установка
 1️⃣ Clone repository | Клонировать репозиторий
 git clone https://github.com/USERNAME/react-calculator.git
 cd react-calculator
@@ -56,7 +56,7 @@ src/
  ├─ App.jsx
  └─ main.jsx
 
-⚙️ How It Works | Как работает
+##⚙️ How It Works | Как работает
 Calculator.jsx
 Manages calculator state (display, showResult)
 Handles button clicks
