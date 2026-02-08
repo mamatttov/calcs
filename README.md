@@ -9,9 +9,6 @@
 📁 Project Structure | Структура
 ⚙️ How It Works | Как работает
 
-
-![Calculator Preview](./preview.png)
-
 ✨ Features | Возможности
 🇬🇧 English
 AC – clear all
